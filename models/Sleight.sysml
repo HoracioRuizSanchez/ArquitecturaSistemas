@@ -33,3 +33,4 @@ package trineoHoracio {
         attribute numeroDePatas : Integer default = 4;
     }
 }
+//RETO 6 Se guarda en Git Hub, guarde el cambio e hice la actualización
